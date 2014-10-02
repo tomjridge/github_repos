@@ -7,7 +7,7 @@ https://github.com/mn200/HOL.git
 git@github.com:ocamllabs/lemix-tests.git
 https://github.com/NixOS/nixpkgs.git
 https://github.com/ocaml/ocaml.git
-"
+git@github.com:andrewray/iocaml.git"
 
 for g in $f; do
     git clone $g
